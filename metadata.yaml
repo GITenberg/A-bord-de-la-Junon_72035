@@ -1,0 +1,26 @@
+_repo: A-bord-de-la-Junon_72035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lemay, Gaston
+    gutenberg_agent_id: '56508'
+    url: http://www.gutenberg.org/2009/agents/56508
+description: ''
+gutenberg_issued: '2023-11-05'
+identifiers:
+  gutenberg: '72035'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924021100684
+pgterms:marc905: 20230409230353lemay
+pgterms:marc906: '1879'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bCharpentier, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A bord de la Junon
+url: http://www.gutenberg.org/ebooks/72035
